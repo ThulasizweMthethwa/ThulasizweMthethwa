@@ -2,7 +2,7 @@
 - 👀 I’m interested in wweb development, networking, database administrater
 - 🌱 I’m currently doing Compuetr Science at TUT
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me via linkin "Thulasizwe Mthethwa"
+- 📫 How to reach me via linkin "Thulasizwe Vukile Mthethwa"
 
 <!---
 ThulasizweMthethwa/ThulasizweMthethwa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
